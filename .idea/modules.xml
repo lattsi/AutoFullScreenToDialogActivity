@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AutoFullScreenToDialogActivity.iml" filepath="$PROJECT_DIR$/AutoFullScreenToDialogActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autofullscreentodialogactivity_testapp/autofullscreentodialogactivity_testapp.iml" filepath="$PROJECT_DIR$/autofullscreentodialogactivity_testapp/autofullscreentodialogactivity_testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>
